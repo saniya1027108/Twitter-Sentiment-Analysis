@@ -1,9 +1,9 @@
 # Twitter-Sentiment-Analysis
 (Using Python Libraries)
 
-This is a small and easy project that I have made for basic understanding of working with API's.I made a developer account on twitter and accessed the api token and keys used in this project.
+A simple and easy project that I made to get a basic understanding of working with APIs.I made a developer account on twitter and accessed the API Token and Keys used in this project.
 
-I have used `BBCBreaking News` Twiiter handle to analyse the sentiments of their tweets
+I have used `BBCBreaking News` Twitter handle to analyse the sentiments of their tweets.
 
 ## Requirements
 There are some general library requirements for the project and some which are specific to individual methods. The general requirements are as follows.
